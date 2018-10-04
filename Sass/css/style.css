@@ -1,3 +1,6 @@
+html {
+  font-size: 100%; }
+
 body {
   background-color: #EEEEEE;
   font-family: Helvetica, Arial, sans-serif; }
@@ -13,9 +16,10 @@ h1, h2, h3 {
 
 #header {
   background-color: #66CCFF;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 10px; }
+  padding: 30px;
+  font-size: 2rem; }
 
 #content {
   /* padding: 10px 10px 10px 10px; */
