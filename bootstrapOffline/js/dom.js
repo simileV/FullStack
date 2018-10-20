@@ -1,6 +1,6 @@
-var $ = require('jquery');
+// var $ = require('jquery');
 
-$('body').css('background', 'blue');
+// $('body').css('background', 'blue');
 
 
 // console.dir(document);
